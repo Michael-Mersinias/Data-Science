@@ -1,10 +1,15 @@
 <h1 align="center"> Data-Science Portfolio </h1> <br>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Michael-Mersinias/Data-Science)
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Welcome to my awesome data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world business problems with statistical methods and machine learning models. Most of my projects are in jupyter notebook. Jupyter notebook is an excellent way to share work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
+
+The project collection covers various trending machine learning applications such as *Natural Language Processing*, *Large Scale Machine Learning with Spark*, *Recommender Systems*, *Predictive Analytics*, *Data Analysis* and *Data Visualization*.
 
 ## Table of Contents
-- [Introduction](#introduction)
 
 - [Customer Churn Study](https://github.com/Michael-Mersinias/Data-Science/tree/main/churn_study)
   - [Customer Churn Modeling](https://github.com/Michael-Mersinias/Data-Science/blob/main/churn_study/customer_churn_modeling.ipynb)
@@ -37,19 +42,6 @@
     <img alt="DataScience" title="DataScience" src="https://cdn-images-1.medium.com/max/1600/1*u16a0WbJeckSdi6kGD3gVA.jpeg" width="600" height="300">
   </a>
 </p>
-
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Introduction
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Michael-Mersinias/Data-Science)
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-Welcome to my awesome data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world business problems with statistical methods and machine learning models. Most of my projects are in jupyter notebook. Jupyter notebook is an excellent way to share work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
-
-The project collection covers various trending machine learning applications such as *Natural Language Processing*, *Large Scale Machine Learning with Spark*, *Recommender Systems*, *Predictive Analytics*, *Data Analysis* and *Data Visualization*.
 
 ## Customer Churn Study
 <p align="center">
