@@ -1,11 +1,11 @@
-<h1 align="center"> Data-Science Portfolio </h1> <br>
+<h1 align="center"> Data Science Portfolio </h1> <br>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Michael-Mersinias/Data-Science)
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to my awesome data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world business problems with statistical methods and machine learning models. Most of my projects are in jupyter notebook. Jupyter notebook is an excellent way to share work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
+Welcome to my data science project portfolio. Here you can find practical solutions to some of the real world business problems with statistical methods and machine learning models. Most of my projects are in jupyter notebook. Jupyter notebook is an excellent way to share work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
 
 The project collection covers various trending machine learning applications such as *Natural Language Processing*, *Large Scale Machine Learning with Spark*, *Recommender Systems*, *Predictive Analytics*, *Data Analysis* and *Data Visualization*.
 
